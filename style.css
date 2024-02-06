@@ -4,9 +4,9 @@ body {text-align: center;
 
 a {text-align: left; font-family: "Courier New"}
 a:link { text-decoration: underline; color:black}
-/* a:visited { text-decoration: none; color: #000000; } */
+a:visited { text-decoration: underline; color: black; }
 a:hover { text-decoration: wavy underline; color: #2562e4; }
-/* a:active { text-decoration: none; color: #000000; } */
+a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
 img {
