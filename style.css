@@ -1,9 +1,10 @@
 body {text-align: center;
       background-color: beige;
       color: black;
-      font-size: 16px;
+      font-size: 12pt;
       line-height: 1.4;
       margin: 0;
+      font-family: "Courier New";
       min-height: 100%;
       overflow-wrap: break-word;
 }
@@ -32,7 +33,7 @@ h1 {	text-align: center;
 	font-family: "Garmond";
 }
 h2 {	text-align: center;
-	font-size: 24pt;
+	font-size: 15pt;
 	font-family: "Courier New";
   
 }
