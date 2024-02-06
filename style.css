@@ -31,12 +31,20 @@ h1 {	text-align: center;
 	font-size: 64pt;
 	font-family: "Garmond";
 }
+h2 {	text-align: center;
+	font-size: 24pt;
+	font-family: "Courier New";
+  
+}
+h1:before {
+  content: "# ";
+}
 
 .container{
   display: flex;
   flex-wrap: wrap;
   /* background: #98b389; */
-  padding: 0px 50px 0px 10px;
+  /* padding: 0px 50px 0px 10px; */
   margin: 0px 25vw 10px 25vw;
 }
 
