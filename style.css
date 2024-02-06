@@ -15,13 +15,13 @@ img {
 
 p {    color: black;
 	text-align: justify;
-
+	font-family: "Courier New"
 	font-size: 16pt
 }
   
 h1 {	text-align: center;
 	font-size: 64pt;
-
+	font-family: "Garmond",
 }
 
 .container{
