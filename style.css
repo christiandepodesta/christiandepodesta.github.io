@@ -1,0 +1,54 @@
+body {text-align: center;
+    background-color: beige;
+}
+
+a {text-decoration: none; font-size: 32pt;}
+a:link {    color: black} 
+a:visited { color: black;  }
+a:hover {   color: #555500; }
+a:active {  color: black;  }
+
+img {
+    max-width: 80%;
+    height: auto;
+}
+
+p {    color: black;
+	text-align: justify;
+
+	font-size: 16pt
+}
+  
+h1 {	text-align: center;
+	font-size: 64pt;
+
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  background:green;
+  padding: 0px 50px 0px 10px;
+  margin: 0px 25vw 10px 25vw;
+}
+
+
+#picture {
+    width: 400px;
+    height: auto;
+}
+
+/* Media query to shrink smiley face to 300px when viewport is equal to or smaller than 400px */
+@media only screen and (max-width: 400px) {
+  #picture {
+    width: 300px;
+  }
+}
+
+/* Media query to set smiley face's width to percentage when viewport is equal to or smaller than 300px */
+@media only screen and (max-width: 300px) {
+  #picture {
+    max-width: 300px;
+    width: 100%;
+  }
+}
