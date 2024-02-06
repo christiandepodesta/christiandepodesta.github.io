@@ -3,7 +3,7 @@ body {text-align: center;
 }
 
 a {text-align: left; font-family: "Courier New"}
-a:link { text-decoration: underline; color: #000000}
+a:link { text-decoration: underline; color: #5dbafc}
 /* a:visited { text-decoration: none; color: #000000; } */
 a:hover { text-decoration: wavy underline; color: #cc0202; }
 /* a:active { text-decoration: none; color: #000000; } */
@@ -28,7 +28,7 @@ h1 {	text-align: center;
 .container{
   display: flex;
   flex-wrap: wrap;
-  background:green;
+  background:rgb(180, 206, 133);
   padding: 0px 50px 0px 10px;
   margin: 0px 25vw 10px 25vw;
 }
