@@ -1,13 +1,12 @@
 body {text-align: center;
     background-color: beige;
-    font-family: "Courier New"
 }
 
 a {text-align: left; font-family: "Courier New"}
-a:link { text-decoration: none; color: #000000}
-a:visited { text-decoration: none; color: #000000; }
+a:link { text-decoration: underline; color: #000000}
+/* a:visited { text-decoration: none; color: #000000; } */
 a:hover { text-decoration: wavy underline; color: #cc0202; }
-a:active { text-decoration: none; color: #000000; }
+/* a:active { text-decoration: none; color: #000000; } */
 
 img {
     max-width: 80%;
