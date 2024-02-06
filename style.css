@@ -7,6 +7,7 @@ a:link { text-decoration: underline; color: #5dbafc}
 /* a:visited { text-decoration: none; color: #000000; } */
 a:hover { text-decoration: wavy underline; color: #cc0202; }
 /* a:active { text-decoration: none; color: #000000; } */
+/* #ffaaac */
 
 img {
     max-width: 80%;
@@ -28,7 +29,7 @@ h1 {	text-align: center;
 .container{
   display: flex;
   flex-wrap: wrap;
-  background:rgb(180, 206, 133);
+  background: #98b389;
   padding: 0px 50px 0px 10px;
   margin: 0px 25vw 10px 25vw;
 }
