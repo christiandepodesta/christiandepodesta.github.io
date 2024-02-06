@@ -3,11 +3,11 @@ body {text-align: center;
 }
 
 a {text-align: left; font-family: "Courier New"}
-a:link { text-decoration: underline; color: #5dbafc}
+a:link { text-decoration: underline; color:black}
 /* a:visited { text-decoration: none; color: #000000; } */
-a:hover { text-decoration: wavy underline; color: #cc0202; }
+a:hover { text-decoration: wavy underline; color: #2562e4; }
 /* a:active { text-decoration: none; color: #000000; } */
-/* #ffaaac */
+/* #ffaaac  */
 
 img {
     max-width: 80%;
@@ -16,14 +16,14 @@ img {
 
 p {    color: black;
 	text-align: justify;
-	font-family: "Courier New"
+	font-family: "Courier New";
 	font-size: 15pt
 }
 
   
 h1 {	text-align: center;
 	font-size: 64pt;
-	font-family: "Garmond",
+	font-family: "Garmond";
 }
 
 .container{
