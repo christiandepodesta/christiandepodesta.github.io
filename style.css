@@ -2,11 +2,11 @@ body {text-align: center;
     background-color: beige;
 }
 
-a {text-decoration: none; font-size: 32pt;}
-a:link {    color: black} 
-a:visited { color: black;  }
-a:hover {   color: #555500; }
-a:active {  color: black;  }
+a {text-align: left; }
+a:link { text-decoration: none; color: #000000}
+a:visited { text-decoration: none; color: #000000; }
+a:hover { text-decoration: wavy underline; color: #cc0202; }
+a:active { text-decoration: none; color: #000000; }
 
 img {
     max-width: 80%;
@@ -16,8 +16,9 @@ img {
 p {    color: black;
 	text-align: justify;
 	font-family: "Courier New"
-	font-size: 16pt
+	font-size: 15pt
 }
+
   
 h1 {	text-align: center;
 	font-size: 64pt;
