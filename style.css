@@ -70,6 +70,14 @@ h2:before {
   }
 }
 
+.hcontainer{
+  display: flex;
+  flex-wrap: wrap;
+  /* background: #98b389; */
+  /* padding: 0px 50px 0px 10px; */
+  /* margin: 0px 25vw 10px 25vw; */
+}
+
 .media {
   display: flex;
   align-items: flex-start;
