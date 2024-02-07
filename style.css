@@ -70,6 +70,15 @@ h2:before {
   }
 }
 
+.media {
+  display: flex;
+  align-items: flex-start;
+  background: #F6F3EB;
+  padding: 1em;
+  border-radius: 3px;
+  max-width: 24em;
+}
+
 table {
   width: 40%;
   border-collapse: collapse;
