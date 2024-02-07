@@ -73,6 +73,8 @@ h2:before {
 .media {
   display: flex;
   align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction:  column;
   background: #F6F3EB;
   padding: 1em;
   border-radius: 3px;
