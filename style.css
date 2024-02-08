@@ -11,7 +11,7 @@ body {
 
 h1 {	text-align: center;
 	/* font-size: 64pt; */
-  font-size: 6vw;
+  font-size: 12vw;
   /* width: 1000px; */
 	font-family: "Garmond";
   display: flex;
@@ -47,7 +47,7 @@ h1 {	text-align: center;
     margin: auto;
   }
 
-  h1 {font-size: 60px;
+  h1 {font-size: 120px;
   }
 }
 
