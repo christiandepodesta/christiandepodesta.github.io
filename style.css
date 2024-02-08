@@ -54,8 +54,6 @@ h1 {	text-align: center;
   }
 }
 
-
-
 a {text-align: left; font-family: "Courier New"}
 a:link { text-decoration: underline; color:black}
 a:visited { text-decoration: underline; color: black; }
@@ -63,7 +61,10 @@ a:hover { text-decoration: wavy underline; color: #2562e4; }
 a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
-
+.box {
+  flex-wrap: wrap;
+  justify-content: space-around
+}
 
 img {
   height: auto;
@@ -71,7 +72,6 @@ img {
   padding: 0vh 5vw;
   max-width: 500px;
 }
-
 
 h2 {	text-align: left;
 	font-size: 15pt;
@@ -81,7 +81,7 @@ h2 {	text-align: left;
 
 h2:target {
 background:  #ffaaac;
-font-style: italic;
+/* font-style: italic; */
 }
 /* h2:before {
   content: "# ";
