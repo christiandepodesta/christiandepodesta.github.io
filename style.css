@@ -12,8 +12,11 @@ body {
 h1 {	text-align: center;
 	/* font-size: 64pt; */
   /* font-size: 0.111vw; */
-  width: 600px;
+  width: 1000px;
 	font-family: "Garmond";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .container{
