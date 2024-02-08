@@ -11,7 +11,8 @@ body {
 
 h1 {	text-align: center;
 	/* font-size: 64pt; */
-  font-size: 0.111vw;
+  /* font-size: 0.111vw; */
+  width: 600px;
 	font-family: "Garmond";
 }
 
@@ -30,8 +31,8 @@ h1 {	text-align: center;
   .container{
     background-color: #aaffcd;}
 
-  h1 {font-size: 64pt;
-  }
+  /* h1 {font-size: 64pt;
+  } */
 }
 
 /* DESKTOP */
@@ -43,8 +44,8 @@ h1 {	text-align: center;
     margin: auto;
   }
 
-  h1 {font-size: 64pt;
-  }
+  /* h1 {font-size: 64pt;
+  } */
 }
 
 .hcontainer{
