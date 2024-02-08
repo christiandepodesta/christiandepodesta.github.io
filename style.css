@@ -10,13 +10,14 @@ body {
 }
 
 .container{
-  max-width: 60%;
+  max-width: 90%;
   height: auto;
   background-color: green;
   /* box-sizing: border-box; */
   padding: 1vh 1vw;
   text-align: left;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
 }
 
 a {text-align: left; font-family: "Courier New"}
