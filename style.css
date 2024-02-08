@@ -77,10 +77,12 @@ img {
 h2 {	text-align: left;
 	font-size: 15pt;
 	font-family: "Garmond";
+  padding: 0 15px;
 }
 
 h2:target {
-background: #ff4646;
+background:  #ffaaac;
+font-style: italic;
 }
 /* h2:before {
   content: "# ";
