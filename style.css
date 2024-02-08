@@ -10,7 +10,7 @@ body {
 }
 
 h1 {	text-align: center;
-	font-size: 64pt;
+	/* font-size: 64pt; */
   font-size: 0.111vw;
 	font-family: "Garmond";
 }
