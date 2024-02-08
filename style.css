@@ -18,12 +18,14 @@ body {
   background-color: #ffaaac;
   padding: 1vh 1vw;
   margin: 0 5vw;
-
 }
 /* IPAD */
 @media only screen and (min-width: 768px){
   .container{
     background-color: #aaffcd;}
+
+  h1 {font-size: 64pt;
+  }
 }
 
 /* DESKTOP */
@@ -34,6 +36,20 @@ body {
     width: 800px;
     margin: auto;
   }
+  
+  h1 {font-size: 64pt;
+  }
+}
+
+.hcontainer{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  /* height: auto; */
+  /* MOBILE */
+  color: #873f3f;
+  /* padding: 1vh 1vw;
+  margin: 0 5vw; */
 }
 
 a {text-align: left; font-family: "Courier New"}
@@ -51,6 +67,7 @@ img {
 
 h1 {	text-align: center;
 	font-size: 64pt;
+  font-size: 0.111vw;
 	font-family: "Garmond";
 }
 
