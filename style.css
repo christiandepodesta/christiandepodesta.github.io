@@ -32,8 +32,8 @@ h1 {	text-align: center;
 /* IPAD */
 @media only screen and (min-width: 768px){
   .container{
-    /* background-color: #aaffcd;} */
-
+    /* background-color: #aaffcd; */
+  }
   /* h1 {font-size: 64pt;
   } */
 }
