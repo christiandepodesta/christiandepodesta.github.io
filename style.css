@@ -54,16 +54,7 @@ h1 {	text-align: center;
   }
 }
 
-/* .hcontainer{
-  display: flex;
-  flex-direction: row;
-  /* justify-content: center; */
-  /* height: auto; */
-  /* MOBILE */
-  /* color: #873f3f; */
-  /* padding: 1vh 1vw;
-  margin: 0 5vw; */
-/* } */ */
+
 
 a {text-align: left; font-family: "Courier New"}
 a:link { text-decoration: underline; color:black}
@@ -73,11 +64,11 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
 img {
-    max-width: 80%;
-    height: auto;
+  display: block;
+  height: auto;
+  margin: auto;
+  width: 80vw;
 }
-
-
 
 
 h2 {	text-align: left;
