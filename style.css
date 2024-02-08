@@ -10,6 +10,7 @@ body {
 }
 
 h1 {	text-align: center;
+  margin: 5vw;
 	/* font-size: 64pt; */
   font-size: 15vw;
   /* width: 1000px; */
