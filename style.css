@@ -11,7 +11,7 @@ body {
 
 h1 {	text-align: center;
 	/* font-size: 64pt; */
-  font-size: 12vw;
+  font-size: 15vw;
   /* width: 1000px; */
 	font-family: "Garmond";
   display: flex;
@@ -33,6 +33,7 @@ h1 {	text-align: center;
 @media only screen and (min-width: 768px){
   .container{
     background-color: transparent
+    font-size: 12vw;
   }
 /*  #aaffcd;} */
   /* h1 {font-size: 64pt;
