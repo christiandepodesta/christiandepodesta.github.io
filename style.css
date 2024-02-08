@@ -82,6 +82,9 @@ img {
   /* padding: 0vh 5vw;
   max-width: 500px; */
 }
+.top-img{
+  max-width:400px;
+}
 
 h2 {	text-align: left;
 	font-size: 15pt;
