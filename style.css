@@ -10,16 +10,17 @@ body {
 }
 
 .container{
-  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   height: auto;
+  /* MOBILE */
   background-color: #ffaaac;
   padding: 1vh 1vw;
   margin: 0 5vw;
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-}
 
+}
+/* IPAD */
 @media only screen and (min-width: 768px){
   .container{
     height: auto;
@@ -29,6 +30,7 @@ body {
   }
 }
 
+/* DESKTOP */
 @media only screen and (min-width: 1000px){
   .container{
     height: auto;
