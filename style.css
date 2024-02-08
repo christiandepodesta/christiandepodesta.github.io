@@ -9,6 +9,12 @@ body {
       overflow-wrap: break-word;
 }
 
+h1 {	text-align: center;
+	font-size: 64pt;
+  font-size: 0.111vw;
+	font-family: "Garmond";
+}
+
 .container{
   display: flex;
   flex-direction: column;
@@ -36,7 +42,7 @@ body {
     width: 800px;
     margin: auto;
   }
-  
+
   h1 {font-size: 64pt;
   }
 }
@@ -65,11 +71,7 @@ img {
 }
 
 
-h1 {	text-align: center;
-	font-size: 64pt;
-  font-size: 0.111vw;
-	font-family: "Garmond";
-}
+
 
 h2 {	text-align: left;
 	font-size: 15pt;
