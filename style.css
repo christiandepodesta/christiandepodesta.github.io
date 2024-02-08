@@ -62,6 +62,7 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
 .box {
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: rgb(66, 134, 97);
