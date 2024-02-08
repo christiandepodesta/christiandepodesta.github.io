@@ -11,7 +11,7 @@ body {
 
 h1 {	text-align: center;
 	/* font-size: 64pt; */
-  font-size: 10vw;
+  font-size: 6vw;
   /* width: 1000px; */
 	font-family: "Garmond";
   display: flex;
@@ -51,16 +51,16 @@ h1 {	text-align: center;
   } */
 }
 
-.hcontainer{
+/* .hcontainer{
   display: flex;
   flex-direction: row;
   /* justify-content: center; */
   /* height: auto; */
   /* MOBILE */
-  color: #873f3f;
+  /* color: #873f3f; */
   /* padding: 1vh 1vw;
   margin: 0 5vw; */
-}
+/* } */ */
 
 a {text-align: left; font-family: "Courier New"}
 a:link { text-decoration: underline; color:black}
