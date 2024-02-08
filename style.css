@@ -13,8 +13,8 @@ body {
   max-width: 100%;
   height: auto;
   background-color: #ffaaac;
-  /* padding: 1vh 1vw; */
-  margin: 0 1vw;
+  padding: 1vh 1vw;
+  margin: 0 5vw;
   display: flex;
   flex-direction: column;
   justify-content: left;
