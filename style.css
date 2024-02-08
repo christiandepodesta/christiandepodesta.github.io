@@ -20,6 +20,24 @@ body {
   justify-content: left;
 }
 
+@media only screen and (min-width: 768 px){
+  .container{
+    height: auto;
+    background-color: #aaffcd;
+    padding: 1vh 1vw;
+    margin: 0 10vw;
+  }
+}
+
+@media only screen and (min-width: 1000 px){
+  .container{
+    height: auto;
+    background-color: #5b99c9;
+    padding: 1vh 1vw;
+    margin: 0 60vw;
+  }
+}
+
 a {text-align: left; font-family: "Courier New"}
 a:link { text-decoration: underline; color:black}
 a:visited { text-decoration: underline; color: black; }
