@@ -5,6 +5,7 @@ body {
       line-height: 1.4;
       margin: 0;
       font-family: "Courier New";
+      text-align: justify;
       min-height: 100%;
       overflow-wrap: break-word;
 }
