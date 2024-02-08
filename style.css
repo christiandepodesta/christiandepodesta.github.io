@@ -36,10 +36,6 @@ h1 {	text-align: center;
     background-color: transparent
 
   }
-  img {
-    width:   614.4px;
-  }
-
   h1 {    font-size: 7vw;
   }
 }
@@ -67,10 +63,9 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
 img {
-  display: block;
   height: auto;
   margin: auto;
-  width: 80vw;
+  max-width: 300px;
 }
 
 
