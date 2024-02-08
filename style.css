@@ -72,11 +72,11 @@ img {
 
 h2 {	text-align: left;
 	font-size: 15pt;
-	font-family: "Courier New";
+	font-family: "Garmond";
 }
-h2:before {
+/* h2:before {
   content: "# ";
-}
+} */
 
 table {
   width: 40%;
