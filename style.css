@@ -63,6 +63,10 @@ a:hover { text-decoration: wavy underline; color: #2562e4; }
 a:active { text-decoration: wavy underline; color: #ffaaac; }
 /* #ffaaac  */
 
+*:target {
+  background: #ff4646;
+}
+
 img {
   height: auto;
   margin: auto;
