@@ -69,9 +69,9 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 
 img {
   height: auto;
-  margin: auto;
-  padding: 0vh 5vw;
-  max-width: 500px;
+  /* margin: auto; */
+  /* padding: 0vh 5vw;
+  max-width: 500px; */
 }
 
 h2 {	text-align: left;
