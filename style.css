@@ -65,14 +65,14 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 img {
   height: auto;
   margin: auto;
-  max-width: 300px;
+  padding: 0vh 5vw;
+  max-width: 500px;
 }
 
 
 h2 {	text-align: left;
 	font-size: 15pt;
 	font-family: "Courier New";
-
 }
 h2:before {
   content: "# ";
