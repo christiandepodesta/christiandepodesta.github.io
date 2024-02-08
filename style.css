@@ -68,7 +68,7 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: rgb(66, 134, 97);
-  width: 380px; 
+  /* width: 380px;  */
   height: auto;
   flex-direction: row-reverse;
 }
