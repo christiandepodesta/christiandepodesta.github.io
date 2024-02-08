@@ -70,7 +70,7 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
   background-color: rgb(66, 134, 97);
   width: 400px; 
   height: auto;
-
+  flex-direction: row-reverse
 }
 
 img {
