@@ -25,14 +25,14 @@ h1 {	text-align: center;
   justify-content: center;
   height: auto;
   /* MOBILE */
-  background-color: #ffaaac;
+  /* background-color: #ffaaac; */
   padding: 1vh 1vw;
   margin: 0 5vw;
 }
 /* IPAD */
 @media only screen and (min-width: 768px){
   .container{
-    background-color: #aaffcd;}
+    /* background-color: #aaffcd;} */
 
   /* h1 {font-size: 64pt;
   } */
@@ -41,7 +41,7 @@ h1 {	text-align: center;
 /* DESKTOP */
 @media only screen and (min-width: 1000px){
   .container{
-    background-color: #5b99c9;
+    /* background-color: #5b99c9; */
     padding: 1vh 1vw;
     width: 800px;
     margin: auto;
