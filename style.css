@@ -23,17 +23,12 @@ body {
 /* IPAD */
 @media only screen and (min-width: 768px){
   .container{
-    height: auto;
     background-color: #aaffcd;
-    padding: 1vh 1vw;
-    margin: 0 10vw;
-  }
 }
 
 /* DESKTOP */
 @media only screen and (min-width: 1000px){
   .container{
-    height: auto;
     background-color: #5b99c9;
     padding: 1vh 1vw;
     width: 800px;
