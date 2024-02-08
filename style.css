@@ -36,7 +36,10 @@ h1 {	text-align: center;
     background-color: transparent
 
   }
-/*  #aaffcd;} */
+  img {
+    width:   614.4px;
+  }
+
   h1 {    font-size: 7.5vw;
   }
 }
