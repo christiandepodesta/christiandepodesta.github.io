@@ -68,7 +68,10 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 }
 
 img {
-  height: auto;
+  /* height: auto; */
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
   /* margin: auto; */
   /* padding: 0vh 5vw;
   max-width: 500px; */
