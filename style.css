@@ -20,7 +20,7 @@ body {
   justify-content: left;
 }
 
-@media only screen and (min-width: 768 px){
+@media only screen and (min-width: 768px){
   .container{
     height: auto;
     background-color: #aaffcd;
@@ -29,7 +29,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 1000 px){
+@media only screen and (min-width: 1000px){
   .container{
     height: auto;
     background-color: #5b99c9;
