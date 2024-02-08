@@ -33,11 +33,11 @@ h1 {	text-align: center;
 @media only screen and (min-width: 768px){
   .container{
     background-color: transparent
-    font-size: 12vw;
+
   }
 /*  #aaffcd;} */
-  /* h1 {font-size: 64pt;
-  } */
+  h1 {    font-size: 12vw;
+  }
 }
 
 /* DESKTOP */
