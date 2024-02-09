@@ -77,9 +77,9 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
 .contents {
   /* background-color: rgb(238, 181, 101); */
   display: block;
-  padding: 5vh 5vw;
+  /* padding: 5vh 5vw; */
   margin: auto;
-  max-width: 400px;
+  max-width: 470px;
 }
 
 
