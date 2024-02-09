@@ -73,6 +73,13 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
   flex-direction: row-reverse;
 }
 
+.contents {
+  background-color: rgb(238, 181, 101);
+  display: block;
+  max-width: 400px;
+}
+
+
 img {
   /* height: auto; */
   max-width: 100%;
