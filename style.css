@@ -71,6 +71,7 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
   /* width: 380px;  */
   height: auto;
   flex-direction: row-reverse;
+  padding: 0 5vw;
 }
 
 .contents {
