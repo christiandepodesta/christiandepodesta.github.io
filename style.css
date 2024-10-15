@@ -74,6 +74,17 @@ a:active { text-decoration: wavy underline; color: #ffaaac; }
   padding: 0 5vw;
 }
 
+.imgbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* background-color: rgb(66, 134, 97); */
+  /* width: 380px;  */
+  height: auto;
+  flex-direction: row-reverse;
+  padding: 0 0vw;
+}
+
 .contents {
   /* background-color: rgb(238, 181, 101); */
   display: block;
