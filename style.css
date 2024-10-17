@@ -41,6 +41,12 @@ h1 {	text-align: center;
   }
   h1 {    font-size: 7vw;
   }
+
+  .yVid {
+    width: "100%";
+    /* height: auto; */
+    margin: 0 auto;
+}
 }
 
 /* DESKTOP */
@@ -54,6 +60,12 @@ h1 {	text-align: center;
 
   h1 {font-size: 70px;
   }
+
+  .yVid {
+    width: "560";
+    /* height: "315"; */
+    margin: 0 auto;
+}
 }
 
 a {text-align: left; font-family: "Courier New"}
@@ -146,19 +158,3 @@ tbody tr td:last-child {
 
 
 
-
-@media only screen and (min-width: 769px) {
-  .yVid {
-      width: "100%";
-      height: auto;
-      margin: 0 auto;
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .yVid {
-      width: "560";
-      height: "315";
-      margin: 0 auto;
-  }
-}
