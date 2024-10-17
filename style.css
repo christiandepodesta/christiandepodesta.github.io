@@ -143,3 +143,22 @@ thead:first-child th {
 tbody tr td:last-child {
   text-align: right;
 }
+
+
+
+
+@media only screen and (min-width: 769px) {
+  .yVid {
+      width: 640px;
+      height: 360px;
+      margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .yVid {
+      width: "400";
+      height: "225";
+      margin: 0 auto;
+  }
+}
