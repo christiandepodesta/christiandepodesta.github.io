@@ -149,8 +149,8 @@ tbody tr td:last-child {
 
 @media only screen and (min-width: 769px) {
   .yVid {
-      width: 640px;
-      height: 360px;
+      width: "560";
+      height: "315";
       margin: 0 auto;
   }
 }
