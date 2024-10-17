@@ -149,16 +149,16 @@ tbody tr td:last-child {
 
 @media only screen and (min-width: 769px) {
   .yVid {
-      width: "560";
-      height: "315";
+      width: "100%";
+      height: auto;
       margin: 0 auto;
   }
 }
 
 @media only screen and (max-width: 768px) {
   .yVid {
-      width: "400";
-      height: "225";
+      width: "560";
+      height: "315";
       margin: 0 auto;
   }
 }
