@@ -42,11 +42,11 @@ h1 {	text-align: center;
   h1 {    font-size: 7vw;
   }
 
-  .yVid {
+  /* .yVid {
     width: "100%";
-    /* height: auto; */
+    height: auto;
     margin: 0 auto;
-}
+} */
 }
 
 /* DESKTOP */
@@ -55,18 +55,17 @@ h1 {	text-align: center;
     /* background-color: #5b99c9; */
     padding: 1vh 1vw;
     width: 800px;
-
     margin: 0 auto;
   }
 
   h1 {font-size: 70px;
   }
 
-  .yVid {
+  /* .yVid {
     width: "560";
-    /* height: "315"; */
+    height: "315";
     margin: 0 auto;
-}
+} */
 }
 
 a {text-align: left; font-family: "Courier New"}
@@ -109,6 +108,12 @@ img {
 }
 .top-img{
   max-width:400px;
+}
+
+  .yVid {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 h2 {	text-align: left;
