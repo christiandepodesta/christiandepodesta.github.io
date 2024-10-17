@@ -55,7 +55,9 @@ h1 {	text-align: center;
     /* background-color: #5b99c9; */
     padding: 1vh 1vw;
     width: 800px;
-    margin: auto;
+    height: 550px;
+
+    margin: 0 auto;
   }
 
   h1 {font-size: 70px;
