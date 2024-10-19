@@ -170,9 +170,13 @@ tbody tr td:last-child {
 
 
 
-.alignleft {
-	float: left;
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
-.alignright {
-	float: right;
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
 }
