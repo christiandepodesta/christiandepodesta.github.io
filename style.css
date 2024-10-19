@@ -170,3 +170,9 @@ tbody tr td:last-child {
 
 
 
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
